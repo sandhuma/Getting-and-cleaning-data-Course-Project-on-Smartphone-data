@@ -2,10 +2,8 @@
 * The folder `UCI HAR Dataset` that is extracted from the source dataset zip is placed in the R working directory.
 * The file `activity_labels.txt` contains the 6 different activities that were performed by the subjects. Read in as `names_activity`
 * The file `features.txt` contains the 561 different features that were derived the accelerometer and the gyroscope readings of the smartphone with the subjects. Read in as `names_features`
-
 * The file `train\X_test.txt` contains the 561 different readings derived from the phone measurements of the training subjects. This contains about 7352 observations. Read in as `train_561`
 * The file `test\X_test.txt` contains the 561 different readings derived from the phone measurements of the test subjects. This contains about 2947 observations. Read in as `test_561`
-
 * The file `train\subject_test.txt` contains the subject id representing the volunteers who performed the 7352 training observations. Read in as `train_subject`
 * The file `test\subject_test.txt` contains the subject id representing the volunteers who performed the 2947 test observations.Read in as `test_subject`
 
