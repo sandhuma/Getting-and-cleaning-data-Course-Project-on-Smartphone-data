@@ -1,5 +1,5 @@
 # Variables
-* The folder 'UCI HAR Dataset' that is extracted from the source dataset zip is placed in the R working directory.
+* The folder `UCI HAR Dataset` that is extracted from the source dataset zip is placed in the R working directory.
 * The file `activity_labels.txt` contains the 6 different activities that were performed by the subjects. Read in as `names_activity`
 * The file `features.txt` contains the 561 different features that were derived the accelerometer and the gyroscope readings of the smartphone with the subjects. Read in as `names_features`
 
